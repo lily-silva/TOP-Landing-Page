@@ -2,7 +2,7 @@
 
 ## About
 
-This is a landing page for a fictional company. It includes a navigation bar, hero section, information section, quote section, call-to-action section, and footer.
+This is a landing page for a fictional company created as part of The Odin Project exercises. It includes a navigation bar, hero section, information section, quote section, call-to-action section, and footer.
 
 ## Technologies Used
 

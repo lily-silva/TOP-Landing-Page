@@ -10,7 +10,7 @@ This landing page is created using HTML and CSS. The CSS file style.css contains
 
 ## Getting Started
 
-To view this landing page, simply open the index.html file in your web browser or navigate to lily-silva.github.io/TOP-Landing-Page/
+To view this landing page, simply open the index.html file in your web browser or navigate to [lily-silva.github.io/TOP-Landing-Page/](lily-silva.github.io/TOP-Landing-Page/)
 
 ## Structure
 
